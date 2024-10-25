@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EightPuzzle
+namespace EightPuzzleSolver
 {
-    class Program
+    class RandomSolver
     {
         static void Main(string[] args)
         {

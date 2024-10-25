@@ -6,6 +6,7 @@
     <RootNamespace>_8puzzle</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>EightPuzzleSolver.AStarSolver</StartupObject>
   </PropertyGroup>
 
 </Project>
