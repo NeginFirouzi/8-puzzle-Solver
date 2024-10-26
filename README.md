@@ -3,9 +3,9 @@
 ## Description
 This is my university AI course (Spring 2023) project and I implemented two methods to solve the classic 8-puzzle problem:
 
-1. **Random Moves Method:** Moves the empty space randomly until the puzzle is solved. I did this for the assignment, but it is not recommended as it may take forever 🙂
+1. **[Random Moves Method:](8puzzle/RandomSolver.cs)** Moves the empty space randomly until the puzzle is solved. I did this for the assignment, but it is not recommended as it may take forever 🙂
 
-2. **A\* Search Algorithm:**  The A* search algorithm is an efficient pathfinding algorithm used to solve graph-based problems like the 8-puzzle.
+2. **[A\* Search Algorithm:](8puzzle/AStarSolver.cs)**  The A* search algorithm is an efficient pathfinding algorithm used to solve graph-based problems like the 8-puzzle.
 It works by maintaining a priority queue of nodes to visit, where the priority is determined by the estimated total cost of reaching the goal through that node.
 
 ### Key components of the A* algorithm:
